@@ -1,0 +1,46 @@
+p{
+	
+	width: 500px;
+	border: 1px solid green;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px;
+}
+h2,h3{
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+	text-align: center;
+}
+
+li,ol{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px;
+	line-height: 2;
+  letter-spacing: 1px;
+}
+html{
+	background-color: #00F393; 
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+	font-family: 'Indie Flower', cursive;
+  margin: 0;
+  padding: 20px 0;    
+  color: #00F393;
+  text-shadow: 3px 3px 1px black;
+  text-align: center;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
+iframe{
+	display: block;
+	margin: 0 auto;
+}
